@@ -1,22 +1,25 @@
-Warmed Welcome!
+Warm Welcome!
 
-I'm a passionate full-stack web developer gaining experience since 2015 on HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, jQuery, Ajax, NodeJS, VueJS, React, Git, Vanilla PHP, MySql, Codeigniter, Laravel, and WordPress CMS. I'm specialized in Website Design, Custom CMS/Web Application/Software Development, RestFull API/Payment Gateway Integration, Wordpress Setup/Customization, and Bug Fix in PHP, Codeigniter, or Wordpress. Over the years, worked on 50+ Websites & 10+ Software development projects.
+I'm a full-stack web developer turned AI-Era Builder — crafting intelligent web applications since 2015 with a modern edge.
+With 10+ years of hands-on experience across Laravel, Vue.js, Inertia.js, Tailwind CSS, MySQL, and REST APIs, I now specialize in building AI-integrated web applications — connecting LLMs, automating workflows, and embedding intelligent features into real-world products.
 
-I'd love to develop your web application/software with an unlimited user & role handling system, or Customize Your WordPress websites or Landing Pages using Elementor Pro, Astra Pro, and Astra Agency templates. I'd love to invest quality time in your projects, provide high-quality services, and won't rush through what you provide.
+What I bring to your project:
+🤖 AI Integration & LLM-Powered Features (ChatGPT, Claude, Gemini APIs)
+⚙️ Intelligent Workflow Automation & Smart Backend Systems
+🧩 Full-Stack Web Apps — Laravel · Vue.js · Inertia.js · Tailwind CSS
+🔗 RESTful API & Payment Gateway Integration
+🛡️ Role-Based Access Control & Multi-User Systems
+📊 Custom CMS, Admin Panels & Operational Management Systems
 
-I'm committed to:
-✅ Eye-Catching & Responsive Design
-✅ Easy Installation
-✅ Search Engine Friendly URL
-✅ Enhanced Security
-✅ 100% Satisfaction Guaranteed
-✅ Vulnerable/Bug Free Codes
-✅ Quick Support
-✅ In Time Delivery
-✅ Information Security
-✅ Revisions until Satisfaction
-✅ After Development Support (May charge)
+My commitment to every project:
+✅ Clean, Scalable & AI-Ready Architecture
+✅ Responsive & Eye-Catching UI/UX
+✅ Security-First Development
+✅ On-Time Delivery
+✅ Clear Communication & Quick Support
+✅ Revisions Until You're Satisfied
+✅ Post-Launch Support Available
 
-So, Contact for your queries.
+Over the years: 50+ websites & 10+ software projects delivered — now powering them with AI.
 
-Thank you for spending time on my profile.
+📩 Let's build something intelligent together.
